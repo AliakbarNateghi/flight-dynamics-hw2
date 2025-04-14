@@ -1,3 +1,4 @@
+# question 1_2
 import matplotlib.pyplot as plt
 import numpy as np
 

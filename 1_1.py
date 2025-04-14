@@ -1,3 +1,4 @@
+# question 1_1
 import matplotlib.pyplot as plt
 
 # Upper surface coordinates (X, Y) in mm
